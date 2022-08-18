@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Columbia Data Club Website",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "The website for the Columbia Data Club",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/columbia-data-club/website/issues"
   },
   "dependencies": {
     "gatsby": "^4.21.0",
