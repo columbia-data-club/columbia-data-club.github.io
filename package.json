@@ -28,7 +28,12 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "@babel/core": ">=7.12.3 <8.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.22.0",
+    "graphql": ">=15.0.0 <16.0.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
